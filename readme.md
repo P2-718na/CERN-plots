@@ -35,7 +35,7 @@ can use `sample.json` and `sample-parsed.json` to get an idea.
     without closing the Python console (it will be faster, since you won't have to re-read the whole dataset)
 
 ### Second method (fastest):
-- If you are a CERN employee, you can download the notebook `plot1.ipynb`, upload it to SWAN and run it
+- If you are a CERN employee, you can download the `plot1.ipynb` notebook, upload it to CERNbox and run it using SWAN
 - If you are *not* a CERN employee, you can still view the notebook using
 [Jupyter notebook viewer](https://nbviewer.jupyter.org/github/P2-718na/CERN-plots/blob/master/plot1.ipynb)
 
