@@ -1,0 +1,6 @@
+venv
+.idea
+.DS_Store
+*.db
+allreqs2018-12.json
+allreqs2018-12-parsed.json
