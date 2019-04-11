@@ -1,8 +1,7 @@
 <h1>What's this?</h1>
 This is a piece of code that uses Python and CERN's PyROOT library to plot data on a graph. It was written during the
-IT stage at CERN. The produced graphs are like these:
-![plot1](https://raw.githubusercontent.com/P2-718na/CERN-plots/master/plot1.png)
-![plot1](https://raw.githubusercontent.com/P2-718na/CERN-plots/master/plot2.png)
+IT stage at CERN. The produced graphs are like these:<br>
+![alt-text-1](plot1.png "title-1") ![alt-text-2](plot2.png "title-2")
 
 ---
 
