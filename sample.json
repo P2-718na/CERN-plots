@@ -1,0 +1,11 @@
+[
+{"t":"2018-12-01T00:00:00.047249+01:00", "r":"PrepareToGet", "gid":"1665", "cls":"compassuser"},
+{"t":"2018-12-01T00:00:00.284322+01:00", "r":"PrepareToGet", "gid":"1665", "cls":"compassuser"},
+{"t":"2018-12-01T00:00:00.400208+01:00", "r":"PrepareToGet", "gid":"1665", "cls":"compassuser"},
+{"t":"2018-12-01T00:00:00.574903+01:00", "r":"PrepareToGet", "gid":"1665", "cls":"compassuser"},
+{"t":"2018-12-01T00:00:00.679033+01:00", "r":"PrepareToGet", "gid":"1665", "cls":"compassuser"},
+{"t":"2018-12-01T00:00:00.797254+01:00", "r":"PutDone", "gid":"2127", "cls":"amscdr"},
+{"t":"2018-12-01T00:00:00.829772+01:00", "r":"PutDone", "gid":"2127", "cls":"amscdr"},
+{"t":"2018-12-01T00:00:01.042614+01:00", "r":"PrepareToGet", "gid":"1665", "cls":"compassuser"},
+{"t":"2018-12-01T00:00:01.273657+01:00", "r":"PrepareToGet", "gid":"1665", "cls":"compassuser"}
+]
