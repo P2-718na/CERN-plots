@@ -11,7 +11,7 @@ except NameError:
 
 
 if not loaded:
-    with open('allreqs2018-12-parsed.json') as f:
+    with open('../allreqs2018-12-parsed.json') as f:
         data = json.load(f)
     loaded = True
     for l in data:

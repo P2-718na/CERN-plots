@@ -8,7 +8,7 @@ except NameError:
     days = []
 
 def load_data():
-    with open('allreqs2018-12.json') as f:
+    with open('../allreqs2018-12.json') as f:
         data = json.load(f)
     global loaded
     loaded = True
