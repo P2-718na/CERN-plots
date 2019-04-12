@@ -24,7 +24,7 @@ IT stage at CERN. The produced graphs are like these:
     cd CERN-plots/src
     ```
 1. Get some data. I couldn't upload the whole dataset i used to make the graphs (400MB), but you
-can use `sample.json` and `sample-parsed.json` in the `data` folder to get an idea.
+can use `sample.json` and `sample-parsed.json` in the `samples` folder to get an idea.
 1. Open a Python console and run the program
     ```
     python
